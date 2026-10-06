@@ -1,0 +1,7 @@
+{
+  "name": "EcoBazar E-commerce Admin Dashboard",
+  "description": "Comprehensive e-commerce admin dashboard for EcoBazar with full management for catalog, orders, customers, marketing, inventory, reports, content, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
